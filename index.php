@@ -45,7 +45,7 @@
         <div class="form-group">
             <div class="input-group">
                 <div class="input-group-addon">URL</div>
-                <input type="text" class="form-control" id="" name="urlsite" placeholder="nhập đường dẫn">
+                <input type="text" class="form-control" id="urlsite" name="urlsite" placeholder="nhập đường dẫn">
             </div>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
